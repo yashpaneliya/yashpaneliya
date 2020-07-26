@@ -40,6 +40,6 @@ I’m looking to collaborate on any AWESOME project :muscle:***
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yashpaneliya&repo=Flutter-Art&theme=radical" />
 </a>
 
-<a href="https://github.com/yashpaneliya/yashpaneliya.github.io">
+<a href="https://yashpaneliya.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yashpaneliya&repo=yashpaneliya.github.io&theme=radical" />
 </a>
