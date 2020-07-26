@@ -33,4 +33,13 @@ I’m looking to collaborate on any AWESOME project :muscle:***
 [![Portfolio](https://img.shields.io/badge/Glimpse%20of%20my%20work-Portfolio-critical)](https://yashpaneliya.github.io/#/)
 
 ## Stats..
+
 <img src="https://github-readme-stats.vercel.app/api?username=yashpaneliya&&show_icons=true&title_color=ffffff&icon_color=dd4629&text_color=daf7dc&bg_color=191919">
+
+<a href="https://github.com/yashpaneliya/Flutter-Art">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yashpaneliya&repo=Flutter-Art&theme=radical" />
+</a>
+
+<a href="https://github.com/yashpaneliya/yashpaneliya.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yashpaneliya&repo=yashpaneliya.github.io&theme=radical" />
+</a>
