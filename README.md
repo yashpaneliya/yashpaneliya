@@ -1,4 +1,4 @@
-<img src="https://github.com/yashpaneliya/Portfolio/blob/master/yash.JPG" width=100%>
+[<img src="https://github.com/yashpaneliya/Portfolio/blob/master/yash.JPG" width=100%>](https://yashpaneliya.github.io/#/)
 
 ## A little intro...
 
