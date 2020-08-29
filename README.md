@@ -7,7 +7,7 @@ I am currently pursuing my Bachelors in Computer Science and Engineering. :compu
 Also I build stuff for 📱 with Flutter :blue_heart:. <br>
 I like to work with community and for the community to make a better world :smiley:<br>
 I try to learn everyday,but sometimes I take leave and do anything I want. :wink:<br>
-I'm a little fish of the Tech-Ocean and I want to swim the whole ocean.. :ocean:<br>
+Basically I'm a citizen of the Flutterverse 💙 and sometimes I also plan small trips of MLWorld 🌎<br>
 I’m currently learning Flutter, NodeJS and Machine Learning :100:<br>
 I’m looking to collaborate on any AWESOME project :muscle:***
 
