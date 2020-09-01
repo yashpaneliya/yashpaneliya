@@ -37,7 +37,9 @@ I’m looking to collaborate on any AWESOME project :muscle:***
 
 ## Stats..
 
-<img src="https://github-readme-stats.vercel.app/api?username=yashpaneliya&&show_icons=true&title_color=ffffff&icon_color=dd4629&text_color=daf7dc&bg_color=191919">
+<img src="https://github-readme-stats.vercel.app/api?username=yashpaneliya&&show_icons=true&title_color=ffffff&icon_color=dd4629&text_color=daf7dc&bg_color=191919" />
+
+<img src="https://wakatime.com/share/@octrus/de4eebe4-5750-4a3b-9ec1-f09b3ca926eb.png" width="50%"/>
 
 <a href="https://github.com/yashpaneliya/Flutter-Art">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yashpaneliya&repo=Flutter-Art&theme=radical" />
