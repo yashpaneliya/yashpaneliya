@@ -20,14 +20,17 @@ I’m looking to collaborate on any AWESOME project :muscle:***
  ####  ![](https://img.shields.io/badge/Flutter-%7C%7C-blue) ![](https://img.shields.io/badge/NodeJS-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/Flutter%20Web-%7C%7C-blue) ![](https://img.shields.io/badge/Java-%7C-yellow) ![](https://img.shields.io/badge/C++-%7C%7C-yellowgreen) ![](https://img.shields.io/badge/Adobe%20XD-%7C%7C-blueviolet)
 
 ## Publications...
-[![Scaffold Widget](https://img.shields.io/badge/GfG-Scaffold%20Widget-0%2C%2022%2C%20100)](https://www.geeksforgeeks.org/scaffold-class-in-flutter-with-examples/)
+[![GfG Articles](https://img.shields.io/badge/GfG-Articles-0%2C%2022%2C%20100)](https://auth.geeksforgeeks.org/user/yashpaneliya/)
 
-[![MaterialApp Widget](https://img.shields.io/badge/GfG-MaterialApp%20Widget-0%2C%2022%2C%20100)](https://www.geeksforgeeks.org/materialapp-class-in-flutter/)
+[![Hashnode](https://img.shields.io/badge/Hashnode-Visit%20Blog-blue)](https://yashpaneliya.hashnode.dev/)
+
+[![Medium](https://img.shields.io/badge/Medium-Read%20Stories-white)](https://yashpaneliya.medium.com/)
+
 
 
 ## Reach me...
 
-[![Twitter](https://img.shields.io/twitter/url?label=yashhpaneliya&style=social&url=https%3A%2F%2Ftwitter.com%2Fyashhpaneliya)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Ftwitter.com%2Fyashhpaneliya)
+[![Twitter](https://img.shields.io/twitter/url?label=yashhpaneliya&style=social&url=https%3A%2F%2Ftwitter.com%2Fyashhpaneliya)](https://twitter.com/yashhpaneliya)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue)](https://www.linkedin.com/in/yash-paneliya-126971193/)
 
