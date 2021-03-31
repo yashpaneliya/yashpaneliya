@@ -17,7 +17,7 @@ I’m looking to collaborate on any AWESOME project :muscle:***
 
 ## Tech-Stack...
 
- ####  ![](https://img.shields.io/badge/Flutter-%7C%7C-blue) ![](https://img.shields.io/badge/Flutter%20Web-%7C%7C-blue) ![](https://img.shields.io/badge/Java-%7C-yellow) ![](https://img.shields.io/badge/C++-%7C%7C-yellowgreen) ![](https://img.shields.io/badge/Adobe%20XD-%7C%7C-blueviolet)
+ ####  ![](https://img.shields.io/badge/Flutter-%7C%7C-blue) ![](https://img.shields.io/badge/Flutter%20Web-%7C%7C-blue) ![](https://img.shields.io/badge/C++-%7C%7C-yellowgreen) ![](https://img.shields.io/badge/Adobe%20XD-%7C%7C-blueviolet)
 
 ## Publications...
 [![GfG Articles](https://img.shields.io/badge/GfG-Articles-0%2C%2022%2C%20100)](https://auth.geeksforgeeks.org/user/yashpaneliya/)
