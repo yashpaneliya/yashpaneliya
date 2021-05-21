@@ -12,7 +12,7 @@ I’m looking to collaborate on any AWESOME project :muscle:***
 
 ⚡ **Fun fact :** I sleep before 12 Midnight 🕛 and Sometimes my code works at first attempt 😎 
 
-![](https://komarev.com/ghpvc/?username=yashpaneliya&color=red&style=flat)
+![](https://komarev.com/ghpvc/?username=yashpaneliya&color=red&style=flat) ![Visits Badge](https://badges.pufler.dev/visits/yashpaneliya/yashpaneliya/?color=blue)
 
 ## Tech-Stack...
 
