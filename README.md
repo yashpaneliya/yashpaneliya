@@ -4,10 +4,10 @@
 
 ***Hello World!! I'm Yash Paneliya.<br>
 I am currently pursuing my Bachelors in Computer Science and Engineering. :computer:<br>
-Also I build stuff for 📱 with Flutter :blue_heart: <br>
+I build stuff :blue_heart: <br>
 I like to work with community and for the community 🤝 <br>
 I try to learn everyday,but sometimes I take leave and do anything I like :wink:<br>
-Basically I'm a citizen of the Flutterverse 💙 and sometimes I also plan small trips to  🌎<br>
+Previously I was a citizen of the Flutterverse 💙, now I shifted to React-Arena but sometimes I do trips to Flutterverse.<br>
 I’m looking to collaborate on any AWESOME project :muscle:***
 
 ⚡ **Fun fact :** I sleep before 12 Midnight 🕛 and Sometimes my code works at first attempt 😎 
@@ -16,7 +16,7 @@ I’m looking to collaborate on any AWESOME project :muscle:***
 
 ## Tech-Stack...
 
- ####  ![](https://img.shields.io/badge/Flutter-%7C%7C-blue) ![](https://img.shields.io/badge/C++-%7C%7C-yellowgreen) ![](https://img.shields.io/badge/Adobe%20XD-%7C%7C-blueviolet)
+ ####  ![](https://img.shields.io/badge/Flutter--blue) ![](https://img.shields.io/badge/C++--yellowgreen) ![](https://img.shields.io/badge/Adobe%20XD--blueviolet)  ![](https://img.shields.io/badge/React--blue)  ![](https://img.shields.io/badge/HTML--red)  ![](https://img.shields.io/badge/CSS--blue)
 
 ## Publications...
 [![GfG Articles](https://img.shields.io/badge/GfG-Articles-0%2C%2022%2C%20100)](https://auth.geeksforgeeks.org/user/yashpaneliya/)
