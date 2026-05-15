@@ -2,7 +2,7 @@
 
 ## A little intro...
 
-Hey there! I'm Yash — a backend/AI engineer at Krutrim ⚙️🤖, with a Master's from IIT Kharagpur and a Bachelor's from CHARUSAT.
+Hey there! I'm Yash — an AI engineer at [ConnectWise](https://www.connectwise.com/) ⚙️🤖, with a Master's from IIT Kharagpur and a Bachelor's from CHARUSAT. Previously worked as AI engineer at [Krutrim](https://www.olakrutrim.com/) and interned as Data Scientist at [NPCI](https://www.npci.org.in/) (I used to catch frauds there👮‍♂️)
 
 It all started with GTA, but the real mission began with those 11 letters on the console 🌍. Since then, I’ve been building everything from Mobile apps, Web apps to AI-powered backend systems, diving deep into frameworks like React, Flutter, and FastAPI, and recently playing with LLMs and a little bit of DevOps stuff. 🚀
 
